@@ -1,0 +1,9 @@
+/workdir
+#.swp
+*.html
+*.id_rsa
+*.pub
+*.img
+*.key
+*.log
+*.pid
